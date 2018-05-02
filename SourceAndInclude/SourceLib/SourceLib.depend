@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1521419264 source:/Users/rahulghosh/Documents/Rahul_Project/SourceAndInclude/SourceLib/stringExpl.c
+	<stdio.h>
+	<stdlib.h>
+	"StringUtils.h"
+
+1521419018 /Users/rahulghosh/Documents/Rahul_Project/SourceAndInclude/SourceLib/StringUtils.h
+	<stdio.h>
+	<stdlib.h>
+
+1521419041 source:/Users/rahulghosh/Documents/Rahul_Project/SourceAndInclude/SourceLib/StringUtilities.c
+	<stdio.h>
+	<stdlib.h>
+	"StringUtils.h"
+	<string.h>
+
